@@ -1,0 +1,80 @@
+body {
+    background-color: #f8f8f8;
+    color:#4a6fa5;
+    front-family:verdana; sans-sherif;
+    padding: 40px;
+    line-heigt: 1.6;
+    font-size: 18px;
+}
+.illustration {
+    width: 250px;
+    opacity: 0.7;
+    float: right;
+    margin-left: 30px;
+    margin-top: -80px;
+}
+h1 {
+    color :rgb(49, 60, 185);
+    margin-bottom: 30px;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+h2 { color:rgb(49, 60, 185);
+    margin-top: 40px;
+}
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+    color:;rgb(49, 60, 185)
+}
+nav a:hover {
+    color: black;
+}
+p img {
+    width: 30px;
+}
+p {
+    margin-bottom: 20px;
+}
+table{
+    width: 35%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th{ 
+    background-color:#eefaf4;
+    color: #1fa75a;
+    padding: 12px;
+    text-align: left;
+}
+td{ 
+    padding: 10px;
+}
+th, td {
+    border: 1px solid #ddd;
+}
+.competences-projet {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.projet {
+   margin-top: 85px;
+   width: 65%;
+}
+.projet h3 { 
+    color: #1fa75a;
+}
+.projet h3,
+.projet h4 {
+    margin-top: 25px;
+}
+h3 {
+    color: #1fa75a;
+}
